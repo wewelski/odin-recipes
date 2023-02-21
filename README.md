@@ -1,1 +1,2 @@
 # odin-recipes
+This is a 4-page static website created through Odin Project's curriculum. Pages are all linked together, and contains image, both ordered and unordered lists, and anchor tags to link all four.
